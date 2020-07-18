@@ -1,0 +1,16 @@
+ul,li{
+  padding:0;margin:0;list-style:none;
+}
+*::-webkit-scrollbar {
+  width: 0px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #7d7d7d;
+  border-radius: 0px;
+}
+
+*::-webkit-scrollbar-track {
+  border-radius: 0px;
+  background-color: #f9f9f9;
+}
